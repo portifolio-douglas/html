@@ -1,2 +1,2 @@
-# html
+# HTML
 My studies on HTML
